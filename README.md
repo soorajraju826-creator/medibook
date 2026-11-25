@@ -20,8 +20,8 @@ Edit `server/.env` before starting. Set `JWT_SECRET` to a long random value and 
 npm run dev
 ```
 
-API: `http://localhost:5000`  
-Health check: `http://localhost:5000/api/health`
+API: `https://hirehub-xbmg.onrender.com/api`  
+Health check: `https://hirehub-xbmg.onrender.com/api`
 
 ## 2. Frontend setup
 Open a second terminal:
